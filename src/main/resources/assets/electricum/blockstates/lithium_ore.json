@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "electricum:block/lithium_ore"
+    }
+  }
+}

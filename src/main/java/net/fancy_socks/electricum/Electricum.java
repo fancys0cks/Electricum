@@ -2,6 +2,7 @@ package net.fancy_socks.electricum;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fancy_socks.electricum.block.ModBlocks;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -12,6 +13,6 @@ public class Electricum implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModBlocks.registerBlocks();
 	}
 }
