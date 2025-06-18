@@ -22,6 +22,8 @@ public class ModItemGroups {
                         entries.add(ModBlocks.LITHIUM_BLOCK);
                         entries.add(ModBlocks.LITHIUM_ORE);
                         entries.add(ModBlocks.DEEPSLATE_LITHIUM_ORE);
+                        entries.add(ModItems.LIGHTNING_SABER);
+
                     }).build());
 
     public static void registerItemGroups () {
