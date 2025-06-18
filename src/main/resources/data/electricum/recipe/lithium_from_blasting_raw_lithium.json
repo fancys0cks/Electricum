@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.2,
+  "group": "lithium",
+  "ingredient": {
+    "item": "electricum:raw_lithium"
+  },
+  "result": {
+    "id": "electricum:lithium"
+  }
+}

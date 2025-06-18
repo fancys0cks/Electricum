@@ -4,5 +4,7 @@
   "block.electricum.deepslate_lithium_ore": "Deepslate Lithium Ore",
 
   "item.electricum.lithium": "Lithium",
-  "item.electricum.raw_lithium": "Raw Lithium"
+  "item.electricum.raw_lithium": "Raw Lithium",
+
+  "itemgroup.electricum.electric_items": "Electricum"
 }
